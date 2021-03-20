@@ -1,0 +1,12 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Quiz"
+theme = "barebone"
+
+[minify]
+  disableHTML = true
+
+[params]
+  description = "A Custom Hugo Shortcode for Interactive Quizzes"
+  author = "Asad Advik"
+  themeVariant = "custom-theme"
